@@ -27,7 +27,7 @@ Find the workshop schedule
 All content of this repo is released under the [CC-BY 4.0 license](https://creativecommons.org/licenses/by/4.0/legalcode)
 
 ## Acknowledgement
-We hereby acknowledge the funding for this project from [KENNET Mini-grants](). 
+We acknowledge the funding for this project from [KENNET Mini-grants](). 
 
 
 ## Contributors
@@ -39,3 +39,10 @@ We hereby acknowledge the funding for this project from [KENNET Mini-grants]().
 
 ## Questions
 [Click here](https://github.com/kipkurui/drug_design_workshop/issues/new) to raise an Issue
+
+
+## Pre-workshop survey
+You can find the pre-workshop survey here [google form]()
+
+## Post-workshop survey
+You can find the post-workshop survey [google form]()
