@@ -34,7 +34,7 @@ We acknowledge the funding for this project from [KENNET Mini-grants](https://ke
 - [Thommas Musyoka]()
 - [George Obiero karega]()
 - [Steven Ger]()
-- - [Caleb Kipkurui](https://github.com/kipkurui)
+- [Caleb Kipkurui](https://github.com/kipkurui)
 
 ## Questions
 [Click here](https://github.com/kipkurui/drug_design_workshop/issues/new) to raise an Issue
