@@ -13,12 +13,11 @@ The workshop will focus on the fundamentals of _in silico_ drug design, explore 
 **Topics:**
 1. Introduction to Bioinformatics: Biological and literature search
 2. Introduction to _in silico_ drug design
-3. Hands-on training on 
-
+3. Application of Bioinformatics in Drug Discovery
+4. Practical session: Use of Online Resources in drug discovery 
 
 ## To participate
-
-You can make an application to participate in the hackathon using the link: **add a link here**
+You can make an application to participate in the hackathon using [application the link](https://forms.gle/2r3Qccs18wLmaMVZ6) by 1st December 2021.
 
 ### Workshop Schedule
 Find the workshop schedule
@@ -27,22 +26,19 @@ Find the workshop schedule
 All content of this repo is released under the [CC-BY 4.0 license](https://creativecommons.org/licenses/by/4.0/legalcode)
 
 ## Acknowledgement
-We acknowledge the funding for this project from [KENNET Mini-grants](). 
+We acknowledge the funding for this project from [KENNET Mini-grants](https://kenet.or.ke/content/kenet-awards-11-small-research-grants-stem-early-career-research-grantee-teams). 
 
 
 ## Contributors
 ### Organizers
-- [Caleb Kipkurui](https://github.com/kipkurui)
 - [Thommas Musyoka]()
 - [George Obiero karega]()
 - [Steven Ger]()
+- - [Caleb Kipkurui](https://github.com/kipkurui)
 
 ## Questions
 [Click here](https://github.com/kipkurui/drug_design_workshop/issues/new) to raise an Issue
 
-
-## Pre-workshop survey
-You can find the pre-workshop survey here [google form]()
 
 ## Post-workshop survey
 You can find the post-workshop survey [google form]()
