@@ -1,6 +1,6 @@
 # Drug Design Workshop
 
-Planning for the Drug Design Workshop/hackathon to be held on the 7th and 8th December at Kenyatta University. 
+We are planning the Drug Design Workshop/hackathon at Kenyatta University on December 7th and 8th. 
 
 ## Introduction
 Africa is home to an astonishing array of plant species, boasting over 45,000 varieties, according to Klopper et al. (2007). This remarkable biodiversity holds the promise of being a valuable source of novel anti-cancer drugs. Specifically, the East African region, with its rich natural plant diversity, presents a unique opportunity for drug discovery.
@@ -17,7 +17,7 @@ The workshop will focus on the fundamentals of _in silico_ drug design, explore 
 4. Practical session: Use of Online Resources in drug discovery 
 
 ## To participate
-You can make an application to participate in the hackathon using [application the link](https://forms.gle/2r3Qccs18wLmaMVZ6) by 1st December 2021.
+You can apply to participate in the hackathon using [application the link](https://forms.gle/2r3Qccs18wLmaMVZ6) by 1 December 2023.
 
 ### Workshop Schedule
 Find the workshop schedule
@@ -32,7 +32,7 @@ We acknowledge the funding for this project from [KENNET Mini-grants](https://ke
 ## Contributors
 ### Organizers
 - [Thommas Musyoka]()
-- [George Obiero karega]()
+- [George Obiero]()
 - [Steven Ger]()
 - [Caleb Kipkurui](https://github.com/kipkurui)
 
