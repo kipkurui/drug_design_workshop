@@ -1,6 +1,6 @@
 # Drug Design Workshop
 
-We are planning the Drug Design Workshop/hackathon at Kenyatta University on December 7th and 8th. 
+We are planning the Drug Design Workshop/hackathon at Kenyatta University on December 13th and 14th. 
 
 ## Introduction
 Africa is home to an astonishing array of plant species, boasting over 45,000 varieties, according to Klopper et al. (2007). This remarkable biodiversity holds the promise of being a valuable source of novel anti-cancer drugs. Specifically, the East African region, with its rich natural plant diversity, presents a unique opportunity for drug discovery.
