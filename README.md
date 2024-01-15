@@ -1,6 +1,6 @@
 # From Genomics to Drug Design Workshop
 
-We are planning the Drug Design Workshop/hackathon at Kenyatta University on December 13th and 14th. 
+We are planning the Drug Design Workshop/hackathon at Kenyatta University on Februry 15th and 16th 2024. 
 
 ## Introduction
 Africa is home to an astonishing array of plant species, boasting over 45,000 varieties, according to Klopper et al. (2007). This remarkable biodiversity holds the promise of being a valuable source of novel anti-cancer drugs. Specifically, the East African region, with its rich natural plant diversity, presents a unique opportunity for drug discovery.
@@ -18,7 +18,7 @@ The workshop will focus on the fundamentals of _in silico_ drug design, explore 
 5. Practical session: Use of Online Resources in drug discovery 
 
 ## To participate
-You can apply to participate in the hackathon using [application the link](https://forms.gle/2r3Qccs18wLmaMVZ6) by 1 December 2023.
+You can apply to participate in the hackathon using [application the link](https://forms.gle/2r3Qccs18wLmaMVZ6) by 1 Feb 2024.
 
 ### Workshop Schedule
 Find the workshop schedule
