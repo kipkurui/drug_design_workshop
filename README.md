@@ -1,4 +1,4 @@
-# Drug Design Workshop
+# From Genomics to Drug Design Workshop
 
 We are planning the Drug Design Workshop/hackathon at Kenyatta University on December 13th and 14th. 
 
@@ -12,9 +12,10 @@ The workshop will focus on the fundamentals of _in silico_ drug design, explore 
 
 **Topics:**
 1. Introduction to Bioinformatics: Biological and literature search
-2. Introduction to _in silico_ drug design
-3. Application of Bioinformatics in Drug Discovery
-4. Practical session: Use of Online Resources in drug discovery 
+2. Introduction to Genomics
+3. Introduction to _in silico_ drug design
+4. Application of Bioinformatics in Drug Discovery
+5. Practical session: Use of Online Resources in drug discovery 
 
 ## To participate
 You can apply to participate in the hackathon using [application the link](https://forms.gle/2r3Qccs18wLmaMVZ6) by 1 December 2023.
