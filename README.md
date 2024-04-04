@@ -18,7 +18,7 @@ The workshop will focus on the fundamentals of _in silico_ drug design, explore 
 5. Practical session: Use of Online Resources in drug discovery 
 
 ## To participate
-You can apply to participate in the hackathon using [application the link](https://forms.gle/2r3Qccs18wLmaMVZ6) by 1 Feb 2024.
+You can apply to participate in the hackathon using [application the link](https://forms.gle/2r3Qccs18wLmaMVZ6) by 19 April 2024.
 
 ### Workshop Schedule
 Find the workshop schedule
@@ -42,4 +42,4 @@ We acknowledge the funding for this project from [KENNET Mini-grants](https://ke
 
 
 ## Post-workshop survey
-You can find the post-workshop survey [google form](https://forms.gle/NvysTfk9sDjSoPiG7)
+You can find the post-workshop survey [google form]()
