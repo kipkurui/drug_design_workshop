@@ -1,11 +1,9 @@
-# From Genomics to Drug Design Workshop
+# Unraveling the application of computers in solving computational problems: A Hands-On Workshop on Genomics and Bioinformatics
 
 We are planning the Drug Design Workshop/hackathon at Kenyatta University on May 9th and 10th, 2024. 
 
 ## Introduction
-Africa is home to an astonishing array of plant species, boasting over 45,000 varieties, according to Klopper et al. (2007). This remarkable biodiversity holds the promise of being a valuable source of novel anti-cancer drugs. Specifically, the East African region, with its rich natural plant diversity, presents a unique opportunity for drug discovery.
-
-However, this potential remains largely untapped, as computational methods have not been fully utilized in exploring this invaluable resource. This workshop aims to bridge that gap by equipping students and researchers with the knowledge and skills needed to harness the power of computational techniques in the discovery of novel drugs from natural compounds.
+Genomics has revolutionized the field of biology, enabling researchers to unravel the complexities of genetic information across diverse organisms. Bioinformatics, the interdisciplinary field that combines biology with computer science, plays a pivotal role in analyzing and interpreting genomic data. In light of the growing importance of genomics and bioinformatics in modern biological research, we propose organizing a workshop aimed at equipping participants with essential skills and tools to navigate the genomic and proteomics landscape through bioinformatics techniques. This will be a key step towards understanding the modern drug design process geared towards finding novel therapeutics for the treatment of cancer.
 
 ## Workshop
 The workshop will focus on the fundamentals of _in silico_ drug design, explore the application of machine learning in drug discovery, and dive into the fascinating world of bioinformatics. Additionally, we have an exciting group activity planned to collaborate on data mining of natural compounds from East Africa, putting our newfound skills into practice.
@@ -18,7 +16,7 @@ The workshop will focus on the fundamentals of _in silico_ drug design, explore 
 5. Practical session: Use of Online Resources in drug discovery 
 
 ## To participate
-You can apply to participate in the hackathon using [application the link](https://forms.gle/2r3Qccs18wLmaMVZ6) by 19 April 2024.
+You can apply to participate in the hackathon using [application the link](https://forms.gle/2r3Qccs18wLmaMVZ6) by 26th April 2024.
 
 ### Workshop Schedule
 Find the workshop schedule
