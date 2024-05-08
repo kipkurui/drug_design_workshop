@@ -1,6 +1,6 @@
 # Unraveling the application of computers in solving computational problems: A Hands-On Workshop on Genomics and Bioinformatics
 
-We are planning the Drug Design Workshop/hackathon at Kenyatta University in Early May 2024. 
+We are planning the Drug Design Workshop/hackathon at Kenyatta University in Mid May 2024. 
 
 ## Introduction
 Genomics has revolutionized the field of biology, enabling researchers to unravel the complexities of genetic information across diverse organisms. Bioinformatics, the interdisciplinary field that combines biology with computer science, is pivotal in analyzing and interpreting genomic data. Given the growing importance of genomics and bioinformatics in modern biological research, we propose organizing a workshop to equip participants with essential skills and tools to navigate the genomic and proteomics landscape through bioinformatics techniques. This will be a key step towards understanding the modern drug design process to find novel therapeutics for cancer treatment.
@@ -16,7 +16,7 @@ The workshop will focus on the fundamentals of _in silico_ drug design, explore 
 5. Practical session: Use of Online Resources in drug discovery 
 
 ## To participate
-You can apply to participate in the hackathon using [application the link](https://forms.gle/2r3Qccs18wLmaMVZ6) by 3rd May 2024.
+You can apply to participate in the hackathon using [application the link](https://forms.gle/2r3Qccs18wLmaMVZ6) by 13th May 2024.
 
 ### Workshop Schedule
 Find the workshop schedule
